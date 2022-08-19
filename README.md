@@ -1,4 +1,4 @@
-## Oiii eu sou a Letícia Marchioni, discente do curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Paraná!
+## Oiii eu sou a Letícia Marchioni!
 <div align="center">
   <a href="https://github.com/lemarchioni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemarchioni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,6 +17,6 @@
 <div> 
   <a href = "mailto:leticiamarchionidossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lemarchioni/lemarchioni/blob/output/github-contribution-grid-snake.svg)
  
 </div>
