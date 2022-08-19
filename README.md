@@ -1,4 +1,4 @@
-## Oiii eu sou a Letícia Marchioni, discente do Ensino Médio Integrado ao curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Paraná!
+## Oiii eu sou a Letícia Marchioni, discente do curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Paraná!
 <div align="center">
   <a href="https://github.com/lemarchioni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemarchioni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
